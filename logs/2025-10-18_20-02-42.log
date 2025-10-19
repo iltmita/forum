@@ -1,0 +1,29 @@
+[2025-10-18 20:02:42.623] [Xeno] [trace] Xeno is only maintained by Rizve. If you find any bugs, have any question, or just want to chat email me rizve@xeno.onl or DM me on Discord: .rizve
+[2025-10-18 20:02:42.651] [Xeno] [info] Version: Xeno - v1.2.80
+[2025-10-18 20:02:42.651] [Xeno] [info] Log file: C:\Users\гамаз\source\repos\RobloxX\WindowsFormsApp1\bin\Debug\logs\2025-10-18_20-02-42.log
+[2025-10-18 20:02:42.714] [Xeno] [debug] Client Checker thread: 0x3c0ffdec0
+[2025-10-18 20:02:42.714] [Xeno] [debug] Xeno Caching thread: 0x3c0ffdeb0
+[2025-10-18 20:02:42.714] [Xeno] [debug] WebSockets Cleaner thread: 0x3c0ffdea0
+[2025-10-18 20:02:42.715] [Cache] [info] Caching file: C:\Users\гамаз\AppData\Local\Xeno\XENO_CACHE.bin
+[2025-10-18 20:02:42.724] [Xeno] [debug] Xeno Server thread: 0x3c0ffde90
+[2025-10-18 20:02:42.731] [Xeno] [info] Creating new RBXClient: 19476
+[2025-10-18 20:02:42.734] [RBXClient] [info] [19476]: Initializing...
+[2025-10-18 20:02:42.734] [RBXClient] [info] [19476]: Version: version-7a4a5d7d1fb3449f
+[2025-10-18 20:02:42.734] [Xeno] [debug] Created RBXClient instance @0x1856d4c4500
+[2025-10-18 20:02:42.734] [Xeno] [info] Successfully created RBXClient: 19476
+[2025-10-18 20:02:42.735] [RBXClient] [debug] [19476]: Fetching DataModel...
+[2025-10-18 20:02:42.829] [RBXClient] [debug] [19476]: 	String: 0x28895199a50
+[2025-10-18 20:02:42.829] [RBXClient] [debug] [19476]: 	RenderView: 0x2888d502000
+[2025-10-18 20:02:42.829] [RBXClient] [debug] [19476]: DataModel (Ugc): 0x28894bfaa38
+[2025-10-18 20:02:42.840] [RBXClient] [debug] [19476]: LocalPlayer: 0x2888a2d7080
+[2025-10-18 20:02:42.840] [RBXClient] [debug] [19476]: LocalPlayer Name: 'fghjcm1'
+[2025-10-18 20:02:42.841] [RBXClient] [trace] [19476]: Attaching in-game using translation module.
+[2025-10-18 20:02:42.843] [RBXClient] [debug] [19476]: EventConnection: 0x288956cc600
+[2025-10-18 20:02:42.934] [Server] [info] Listening on http://localhost:3110
+[2025-10-18 20:02:43.139] [RBXClient] [trace] [19476]: Intercepted translation module @0x288956cfe00
+[2025-10-18 20:02:46.917] [Execution] [error] [19476]: Could not find a CoreModule; You are not attached properly. Switch to Roblox's window
+[2025-10-18 20:02:47.167] [RBXClient] [warning] [19476]: Attach is taking longer than expected...
+[2025-10-18 20:02:49.475] [RBXClient] [warning] [19476]: Did not receive the success ping from client, trying one last time...
+[2025-10-18 20:02:49.588] [RBXClient] [trace] [19476]: Attach ping received from client, restored bytecode state. This indicates everything was successful.
+[2025-10-18 20:05:28.045] [Xeno] [info] Removed RBXClient: 19476
+[2025-10-18 20:05:33.059] [Xeno] [info] Cleaned up '19476' from InitializedClients

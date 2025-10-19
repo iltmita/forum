@@ -1,0 +1,21 @@
+[2025-10-17 02:03:46.838] [Xeno] [trace] Xeno is only maintained by Rizve. If you find any bugs, have any question, or just want to chat email me rizve@xeno.onl or DM me on Discord: .rizve
+[2025-10-17 02:03:46.838] [Xeno] [info] Version: Xeno - v1.2.80
+[2025-10-17 02:03:46.838] [Xeno] [info] Log file: C:\Users\гамаз\source\repos\RobloxX\WindowsFormsApp1\bin\Debug\logs\2025-10-17_02-03-46.log
+[2025-10-17 02:03:46.839] [Xeno] [debug] Client Checker thread: 0xf75a1fe2e0
+[2025-10-17 02:03:46.839] [Xeno] [debug] Xeno Caching thread: 0xf75a1fe2d0
+[2025-10-17 02:03:46.839] [Xeno] [debug] WebSockets Cleaner thread: 0xf75a1fe2c0
+[2025-10-17 02:03:46.839] [Cache] [info] Caching file: C:\Users\гамаз\AppData\Local\Xeno\XENO_CACHE.bin
+[2025-10-17 02:03:46.839] [Xeno] [debug] Xeno Server thread: 0xf75a1fe2b0
+[2025-10-17 02:03:46.839] [Cache] [info] Reattaching to cached client PID: 16028
+[2025-10-17 02:03:46.840] [Cache] [info] Loaded existing cache: 1 RBXClients, 0 RBXBytecode, 0 RBXMFlags, 1 RBXRenderViews
+[2025-10-17 02:03:46.840] [Xeno] [info] Creating new RBXClient: 16028
+[2025-10-17 02:03:46.840] [RBXClient] [info] [16028]: Initializing...
+[2025-10-17 02:03:46.840] [RBXClient] [info] [16028]: Version: version-7a4a5d7d1fb3449f
+[2025-10-17 02:03:46.840] [Xeno] [debug] Created RBXClient instance @0x2df3301eef0
+[2025-10-17 02:03:46.840] [Xeno] [info] Successfully created RBXClient: 16028
+[2025-10-17 02:03:46.840] [Server] [info] Listening on http://localhost:3110
+[2025-10-17 02:03:46.841] [RBXClient] [info] [16028]: RenderView retrieved from Cache: 0x1fa4f891c00
+[2025-10-17 02:03:46.841] [RBXClient] [debug] [16028]: DataModel (Ugc): 0x1fa47813e38
+[2025-10-17 02:03:46.841] [RBXClient] [debug] [16028]: LocalPlayer: 0x1fa73682080
+[2025-10-17 02:03:46.841] [RBXClient] [debug] [16028]: LocalPlayer Name: 'fghjcm1'
+[2025-10-17 02:03:46.843] [RBXClient] [info] [16028]: Client was already attached, handling important core functions for the client :D

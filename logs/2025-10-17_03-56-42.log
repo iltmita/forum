@@ -1,0 +1,24 @@
+[2025-10-17 03:56:42.140] [Xeno] [trace] Xeno is only maintained by Rizve. If you find any bugs, have any question, or just want to chat email me rizve@xeno.onl or DM me on Discord: .rizve
+[2025-10-17 03:56:42.140] [Xeno] [info] Version: Xeno - v1.2.80
+[2025-10-17 03:56:42.141] [Xeno] [info] Log file: C:\Users\гамаз\source\repos\RobloxX\WindowsFormsApp1\bin\Debug\logs\2025-10-17_03-56-42.log
+[2025-10-17 03:56:42.141] [Xeno] [debug] Client Checker thread: 0x9feb3fdc50
+[2025-10-17 03:56:42.141] [Xeno] [debug] Xeno Caching thread: 0x9feb3fdc40
+[2025-10-17 03:56:42.141] [Xeno] [debug] WebSockets Cleaner thread: 0x9feb3fdc30
+[2025-10-17 03:56:42.142] [Cache] [info] Caching file: C:\Users\гамаз\AppData\Local\Xeno\XENO_CACHE.bin
+[2025-10-17 03:56:42.142] [Xeno] [debug] Xeno Server thread: 0x9feb3fdc20
+[2025-10-17 03:56:42.142] [Server] [info] Listening on http://localhost:3110
+[2025-10-17 03:56:42.157] [Xeno] [info] Creating new RBXClient: 18088
+[2025-10-17 03:56:42.157] [RBXClient] [info] [18088]: Initializing...
+[2025-10-17 03:56:42.157] [RBXClient] [info] [18088]: Version: version-7a4a5d7d1fb3449f
+[2025-10-17 03:56:42.157] [Xeno] [debug] Created RBXClient instance @0x242b18dc5c0
+[2025-10-17 03:56:42.157] [Xeno] [info] Successfully created RBXClient: 18088
+[2025-10-17 03:56:42.157] [RBXClient] [debug] [18088]: Fetching DataModel...
+[2025-10-17 03:56:42.305] [RBXClient] [debug] [18088]: 	String: 0x1f5a78a0bd0
+[2025-10-17 03:56:42.305] [RBXClient] [debug] [18088]: 	RenderView: 0x1f59e3d1c00
+[2025-10-17 03:56:42.305] [RBXClient] [debug] [18088]: DataModel (Ugc): 0x1f5b3911a38
+[2025-10-17 03:56:42.305] [RBXClient] [debug] [18088]: LocalPlayer: 0x1f5ad045080
+[2025-10-17 03:56:42.305] [RBXClient] [debug] [18088]: LocalPlayer Name: 'fghjcm1'
+[2025-10-17 03:56:42.307] [RBXClient] [trace] [18088]: Attaching in-game using translation module.
+[2025-10-17 03:56:42.308] [RBXClient] [debug] [18088]: EventConnection: 0x1f5b0efe400
+[2025-10-17 03:56:42.508] [RBXClient] [trace] [18088]: Intercepted translation module @0x1f5b0f01e00
+[2025-10-17 03:56:42.951] [RBXClient] [trace] [18088]: Attach ping received from client, restored bytecode state. This indicates everything was successful.

@@ -1,0 +1,23 @@
+[2025-10-17 02:22:04.092] [Xeno] [trace] Xeno is only maintained by Rizve. If you find any bugs, have any question, or just want to chat email me rizve@xeno.onl or DM me on Discord: .rizve
+[2025-10-17 02:22:04.092] [Xeno] [info] Version: Xeno - v1.2.80
+[2025-10-17 02:22:04.092] [Xeno] [info] Log file: C:\Users\гамаз\source\repos\RobloxX\WindowsFormsApp1\bin\Debug\logs\2025-10-17_02-22-04.log
+[2025-10-17 02:22:04.093] [Xeno] [debug] Client Checker thread: 0x3d19ffdf60
+[2025-10-17 02:22:04.093] [Xeno] [debug] Xeno Caching thread: 0x3d19ffdf50
+[2025-10-17 02:22:04.093] [Xeno] [debug] WebSockets Cleaner thread: 0x3d19ffdf40
+[2025-10-17 02:22:04.093] [Cache] [info] Caching file: C:\Users\гамаз\AppData\Local\Xeno\XENO_CACHE.bin
+[2025-10-17 02:22:04.101] [Xeno] [debug] Xeno Server thread: 0x3d19ffdf30
+[2025-10-17 02:22:04.101] [Cache] [info] Reattaching to cached client PID: 16028
+[2025-10-17 02:22:04.101] [Cache] [info] Loaded existing cache: 1 RBXClients, 0 RBXBytecode, 0 RBXMFlags, 1 RBXRenderViews
+[2025-10-17 02:22:04.101] [Xeno] [info] Creating new RBXClient: 16028
+[2025-10-17 02:22:04.101] [RBXClient] [info] [16028]: Initializing...
+[2025-10-17 02:22:04.101] [RBXClient] [info] [16028]: Version: version-7a4a5d7d1fb3449f
+[2025-10-17 02:22:04.101] [Xeno] [debug] Created RBXClient instance @0x1cf0f853680
+[2025-10-17 02:22:04.101] [Xeno] [info] Successfully created RBXClient: 16028
+[2025-10-17 02:22:04.102] [Server] [info] Listening on http://localhost:3110
+[2025-10-17 02:22:04.102] [RBXClient] [info] [16028]: RenderView retrieved from Cache: 0x1fa4f891c00
+[2025-10-17 02:22:04.102] [RBXClient] [debug] [16028]: DataModel (Ugc): 0x1faedd3da38
+[2025-10-17 02:22:04.103] [RBXClient] [debug] [16028]: LocalPlayer: 0x1fb3fff7080
+[2025-10-17 02:22:04.103] [RBXClient] [debug] [16028]: LocalPlayer Name: 'fghjcm1'
+[2025-10-17 02:22:04.105] [RBXClient] [info] [16028]: Client was already attached, handling important core functions for the client :D
+[2025-10-17 02:22:05.282] [RBXClient] [trace] [16028]: Awesome, we are attached through Roblox menu :D
+[2025-10-17 02:22:28.314] [Execution] [error] [16028]: Failed to compile (this is a problem with your script): :1: Expected identifier when parsing expression, got "print(\"oof\")"
