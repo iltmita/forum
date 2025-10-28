@@ -1,0 +1,25 @@
+[2025-10-25 19:02:11.949] [Xeno] [trace] Xeno is only maintained by Rizve. If you find any bugs, have any question, or just want to chat email me rizve@xeno.onl or DM me on Discord: .rizve
+[2025-10-25 19:02:11.952] [Xeno] [info] Version: Xeno - v1.2.85
+[2025-10-25 19:02:11.952] [Xeno] [info] Log file: C:\Users\гамаз\source\repos\TechnoSploit\TechnoSploit\bin\Debug\logs\2025-10-25_19-02-11.log
+[2025-10-25 19:02:11.969] [Xeno] [debug] Client Checker thread: 0xbf7cbfd630
+[2025-10-25 19:02:11.969] [Xeno] [debug] Xeno Caching thread: 0xbf7cbfd620
+[2025-10-25 19:02:11.969] [Xeno] [debug] WebSockets Cleaner thread: 0xbf7cbfd610
+[2025-10-25 19:02:11.969] [Cache] [info] Caching file: C:\Users\гамаз\AppData\Local\Xeno\XENO_CACHE.bin
+[2025-10-25 19:02:11.969] [Xeno] [debug] Xeno Server thread: 0xbf7cbfd600
+[2025-10-25 19:02:11.969] [Cache] [info] Reattaching to cached client PID: 4668
+[2025-10-25 19:02:11.970] [Cache] [info] Loaded existing cache: 1 RBXClients, 0 RBXBytecode, 0 RBXMFlags, 1 RBXRenderViews
+[2025-10-25 19:02:11.970] [Xeno] [info] Creating new RBXClient: 4668
+[2025-10-25 19:02:11.970] [RBXClient] [info] [4668]: Initializing...
+[2025-10-25 19:02:11.970] [RBXClient] [info] [4668]: Version: version-4aeb17bd13994560
+[2025-10-25 19:02:11.970] [Xeno] [debug] Created RBXClient instance @0x21e4b324c10
+[2025-10-25 19:02:11.970] [Xeno] [info] Successfully created RBXClient: 4668
+[2025-10-25 19:02:11.971] [RBXClient] [info] [4668]: RenderView retrieved from Cache: 0x220a36c0c00
+[2025-10-25 19:02:11.971] [RBXClient] [debug] [4668]: DataModel (Ugc): 0x220b40f6e38
+[2025-10-25 19:02:11.974] [RBXClient] [debug] [4668]: LocalPlayer: 0x220ca2ab080
+[2025-10-25 19:02:11.974] [RBXClient] [debug] [4668]: LocalPlayer Name: 'ILostMyPassworf'
+[2025-10-25 19:02:11.975] [RBXClient] [trace] [4668]: Attaching in-game using translation module.
+[2025-10-25 19:02:11.977] [RBXClient] [debug] [4668]: EventConnection: 0x220cdc14c00
+[2025-10-25 19:02:11.978] [Server] [info] Listening on http://localhost:3110
+[2025-10-25 19:02:12.183] [RBXClient] [trace] [4668]: Intercepted translation module @0x220cdc18400
+[2025-10-25 19:02:16.025] [Execution] [error] [4668]: Could not find a CoreModule; You are not attached properly. Switch to Roblox's window
+[2025-10-25 19:02:16.128] [RBXClient] [trace] [4668]: Attach ping received from client, restored bytecode state. This indicates everything was successful.

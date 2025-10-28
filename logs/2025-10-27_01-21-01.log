@@ -1,0 +1,25 @@
+[2025-10-27 01:21:01.900] [Xeno] [trace] Xeno is only maintained by Rizve. If you find any bugs, have any question, or just want to chat email me rizve@xeno.onl or DM me on Discord: .rizve
+[2025-10-27 01:21:01.901] [Xeno] [info] Version: Xeno - v1.2.85
+[2025-10-27 01:21:01.901] [Xeno] [info] Log file: C:\Users\гамаз\source\repos\TechnoSploit\TechnoSploit\bin\Debug\logs\2025-10-27_01-21-01.log
+[2025-10-27 01:21:01.903] [Xeno] [debug] Client Checker thread: 0xcac4ffd630
+[2025-10-27 01:21:01.903] [Xeno] [debug] Xeno Caching thread: 0xcac4ffd620
+[2025-10-27 01:21:01.903] [Xeno] [debug] WebSockets Cleaner thread: 0xcac4ffd610
+[2025-10-27 01:21:01.903] [Cache] [info] Caching file: C:\Users\E0DC~1\AppData\Local\Xeno\XENO_CACHE.bin
+[2025-10-27 01:21:01.903] [Xeno] [debug] Xeno Server thread: 0xcac4ffd600
+[2025-10-27 01:21:01.906] [Server] [info] Listening on http://localhost:3110
+[2025-10-27 01:21:01.917] [Xeno] [info] Creating new RBXClient: 14104
+[2025-10-27 01:21:01.917] [RBXClient] [info] [14104]: Initializing...
+[2025-10-27 01:21:01.917] [RBXClient] [info] [14104]: Version: version-4aeb17bd13994560
+[2025-10-27 01:21:01.917] [Xeno] [debug] Created RBXClient instance @0x1e276cb1380
+[2025-10-27 01:21:01.917] [Xeno] [info] Successfully created RBXClient: 14104
+[2025-10-27 01:21:01.918] [RBXClient] [debug] [14104]: Fetching DataModel...
+[2025-10-27 01:21:02.060] [RBXClient] [debug] [14104]: 	String: 0x256acf8db50
+[2025-10-27 01:21:02.060] [RBXClient] [debug] [14104]: 	RenderView: 0x256ad0c0c00
+[2025-10-27 01:21:02.060] [RBXClient] [debug] [14104]: DataModel (Ugc): 0x256c276e638
+[2025-10-27 01:21:02.065] [RBXClient] [debug] [14104]: LocalPlayer: 0x256b1f43080
+[2025-10-27 01:21:02.065] [RBXClient] [debug] [14104]: LocalPlayer Name: '12hrsa2'
+[2025-10-27 01:21:02.066] [RBXClient] [trace] [14104]: Attaching in-game using translation module.
+[2025-10-27 01:21:02.068] [RBXClient] [debug] [14104]: EventConnection: 0x256b6ed4200
+[2025-10-27 01:21:02.289] [RBXClient] [trace] [14104]: Intercepted translation module @0x256b6ed7a00
+[2025-10-27 01:21:05.991] [Execution] [error] [14104]: Could not find a CoreModule; You are not attached properly. Switch to Roblox's window
+[2025-10-27 01:21:06.076] [RBXClient] [trace] [14104]: Attach ping received from client, restored bytecode state. This indicates everything was successful.

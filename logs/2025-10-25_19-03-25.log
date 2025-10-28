@@ -1,0 +1,21 @@
+[2025-10-25 19:03:25.529] [Xeno] [trace] Xeno is only maintained by Rizve. If you find any bugs, have any question, or just want to chat email me rizve@xeno.onl or DM me on Discord: .rizve
+[2025-10-25 19:03:25.529] [Xeno] [info] Version: Xeno - v1.2.85
+[2025-10-25 19:03:25.529] [Xeno] [info] Log file: C:\Users\гамаз\source\repos\TechnoSploit\TechnoSploit\bin\Debug\logs\2025-10-25_19-03-25.log
+[2025-10-25 19:03:25.529] [Xeno] [debug] Client Checker thread: 0xe7971fd2f0
+[2025-10-25 19:03:25.529] [Xeno] [debug] Xeno Caching thread: 0xe7971fd2e0
+[2025-10-25 19:03:25.529] [Xeno] [debug] WebSockets Cleaner thread: 0xe7971fd2d0
+[2025-10-25 19:03:25.530] [Xeno] [debug] Xeno Server thread: 0xe7971fd2c0
+[2025-10-25 19:03:25.530] [Cache] [info] Caching file: C:\Users\гамаз\AppData\Local\Xeno\XENO_CACHE.bin
+[2025-10-25 19:03:25.530] [Cache] [info] Reattaching to cached client PID: 4668
+[2025-10-25 19:03:25.530] [Cache] [info] Loaded existing cache: 1 RBXClients, 0 RBXBytecode, 0 RBXMFlags, 1 RBXRenderViews
+[2025-10-25 19:03:25.530] [Xeno] [info] Creating new RBXClient: 4668
+[2025-10-25 19:03:25.530] [RBXClient] [info] [4668]: Initializing...
+[2025-10-25 19:03:25.530] [RBXClient] [info] [4668]: Version: version-4aeb17bd13994560
+[2025-10-25 19:03:25.530] [Server] [info] Listening on http://localhost:3110
+[2025-10-25 19:03:25.530] [Xeno] [debug] Created RBXClient instance @0x21241a35ff0
+[2025-10-25 19:03:25.530] [Xeno] [info] Successfully created RBXClient: 4668
+[2025-10-25 19:03:25.531] [RBXClient] [info] [4668]: RenderView retrieved from Cache: 0x220a36c0c00
+[2025-10-25 19:03:25.531] [RBXClient] [debug] [4668]: DataModel (Ugc): 0x220b40f6e38
+[2025-10-25 19:03:25.532] [RBXClient] [debug] [4668]: LocalPlayer: 0x220ca2ab080
+[2025-10-25 19:03:25.532] [RBXClient] [debug] [4668]: LocalPlayer Name: 'ILostMyPassworf'
+[2025-10-25 19:03:25.533] [RBXClient] [info] [4668]: Client was already attached, handling important core functions for the client :D

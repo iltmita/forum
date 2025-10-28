@@ -1,0 +1,27 @@
+[2025-10-27 02:22:30.054] [Xeno] [trace] Xeno is only maintained by Rizve. If you find any bugs, have any question, or just want to chat email me rizve@xeno.onl or DM me on Discord: .rizve
+[2025-10-27 02:22:30.054] [Xeno] [info] Version: Xeno - v1.2.85
+[2025-10-27 02:22:30.054] [Xeno] [info] Log file: C:\Users\гамаз\Desktop\TechnoSploitV1.0\logs\2025-10-27_02-22-30.log
+[2025-10-27 02:22:30.055] [Xeno] [debug] Client Checker thread: 0x151d8f0
+[2025-10-27 02:22:30.055] [Xeno] [debug] Xeno Caching thread: 0x151d8e0
+[2025-10-27 02:22:30.055] [Xeno] [debug] WebSockets Cleaner thread: 0x151d8d0
+[2025-10-27 02:22:30.055] [Cache] [info] Caching file: C:\Users\E0DC~1\AppData\Local\Xeno\XENO_CACHE.bin
+[2025-10-27 02:22:30.055] [Xeno] [debug] Xeno Server thread: 0x151d8c0
+[2025-10-27 02:22:30.056] [Server] [info] Listening on http://localhost:3110
+[2025-10-27 02:22:30.064] [Xeno] [info] Creating new RBXClient: 16284
+[2025-10-27 02:22:30.064] [RBXClient] [info] [16284]: Initializing...
+[2025-10-27 02:22:30.065] [RBXClient] [info] [16284]: Version: version-4aeb17bd13994560
+[2025-10-27 02:22:30.065] [Xeno] [debug] Created RBXClient instance @0x25456260
+[2025-10-27 02:22:30.065] [Xeno] [info] Successfully created RBXClient: 16284
+[2025-10-27 02:22:30.066] [RBXClient] [debug] [16284]: Fetching DataModel...
+[2025-10-27 02:22:30.228] [RBXClient] [debug] [16284]: 	String: 0x267308e24d0
+[2025-10-27 02:22:30.228] [RBXClient] [debug] [16284]: 	RenderView: 0x26724fb1000
+[2025-10-27 02:22:30.228] [RBXClient] [debug] [16284]: DataModel (Ugc): 0x2672b655638
+[2025-10-27 02:22:30.229] [RBXClient] [debug] [16284]: LocalPlayer: 0x2672e7dd080
+[2025-10-27 02:22:30.229] [RBXClient] [debug] [16284]: LocalPlayer Name: '12hrsa2'
+[2025-10-27 02:22:30.230] [RBXClient] [trace] [16284]: Attaching in-game using translation module.
+[2025-10-27 02:22:30.231] [RBXClient] [debug] [16284]: EventConnection: 0x2672d0d9c00
+[2025-10-27 02:22:30.448] [RBXClient] [trace] [16284]: Intercepted translation module @0x2672d0dd400
+[2025-10-27 02:22:34.127] [Execution] [error] [16284]: Could not find a CoreModule; You are not attached properly. Switch to Roblox's window
+[2025-10-27 02:22:38.188] [Execution] [error] [16284]: Could not find a CoreModule; You are not attached properly. Switch to Roblox's window
+[2025-10-27 02:22:38.393] [RBXClient] [warning] [16284]: Attach is taking longer than expected...
+[2025-10-27 02:22:40.198] [RBXClient] [trace] [16284]: Attach ping received from client, restored bytecode state. This indicates everything was successful.

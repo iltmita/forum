@@ -1,1 +1,1 @@
-print("Hello, World!")\n-- Made by Quorum Hub
+print("Hi Techno!")\n

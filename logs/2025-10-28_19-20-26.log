@@ -1,0 +1,48 @@
+[2025-10-28 19:20:26.413] [Xeno] [trace] Xeno is only maintained by Rizve. If you find any bugs, have any question, or just want to chat email me rizve@xeno.onl or DM me on Discord: .rizve
+[2025-10-28 19:20:26.413] [Xeno] [info] Version: Xeno - v1.2.85
+[2025-10-28 19:20:26.413] [Xeno] [info] Log file: C:\Users\гамаз\Desktop\TechnoSploitV1.0\logs\2025-10-28_19-20-26.log
+[2025-10-28 19:20:26.414] [Xeno] [debug] Client Checker thread: 0x151d8f0
+[2025-10-28 19:20:26.414] [Xeno] [debug] Xeno Caching thread: 0x151d8e0
+[2025-10-28 19:20:26.414] [Xeno] [debug] WebSockets Cleaner thread: 0x151d8d0
+[2025-10-28 19:20:26.415] [Cache] [info] Caching file: C:\Users\E0DC~1\AppData\Local\Xeno\XENO_CACHE.bin
+[2025-10-28 19:20:26.415] [Xeno] [debug] Xeno Server thread: 0x151d8c0
+[2025-10-28 19:20:26.421] [Xeno] [info] Creating new RBXClient: 11084
+[2025-10-28 19:20:26.422] [RBXClient] [info] [11084]: Initializing...
+[2025-10-28 19:20:26.422] [RBXClient] [info] [11084]: Version: version-4aeb17bd13994560
+[2025-10-28 19:20:26.422] [Xeno] [debug] Created RBXClient instance @0x254b6f40
+[2025-10-28 19:20:26.422] [Xeno] [info] Successfully created RBXClient: 11084
+[2025-10-28 19:20:26.422] [RBXClient] [debug] [11084]: Fetching DataModel...
+[2025-10-28 19:20:26.428] [Server] [info] Listening on http://localhost:3110
+[2025-10-28 19:20:26.504] [RBXClient] [debug] [11084]: 	String: 0x1c415948b50
+[2025-10-28 19:20:26.504] [RBXClient] [debug] [11084]: 	RenderView: 0x1c40a610c00
+[2025-10-28 19:20:26.504] [RBXClient] [debug] [11084]: DataModel (Ugc): 0x1c41d54da38
+[2025-10-28 19:20:26.505] [RBXClient] [debug] [11084]: LocalPlayer: 0x1c4259a4080
+[2025-10-28 19:20:26.505] [RBXClient] [debug] [11084]: LocalPlayer Name: 'Nawdwds'
+[2025-10-28 19:20:26.507] [RBXClient] [trace] [11084]: Attaching in-game using translation module.
+[2025-10-28 19:20:26.508] [RBXClient] [debug] [11084]: EventConnection: 0x1c412664200
+[2025-10-28 19:20:26.721] [RBXClient] [trace] [11084]: Intercepted translation module @0x1c412667a00
+[2025-10-28 19:20:30.566] [Execution] [error] [11084]: Could not find a CoreModule; You are not attached properly. Switch to Roblox's window
+[2025-10-28 19:20:30.795] [RBXClient] [warning] [11084]: Attach is taking longer than expected...
+[2025-10-28 19:20:31.683] [RBXClient] [trace] [11084]: Attach ping received from client, restored bytecode state. This indicates everything was successful.
+[2025-10-28 20:09:46.869] [Xeno] [info] Removed RBXClient: 11084
+[2025-10-28 20:09:51.884] [Xeno] [info] Cleaned up '11084' from InitializedClients
+[2025-10-28 20:10:19.307] [Xeno] [info] Creating new RBXClient: 18028
+[2025-10-28 20:10:19.307] [RBXClient] [info] [18028]: Initializing...
+[2025-10-28 20:10:19.307] [RBXClient] [info] [18028]: Version: version-4aeb17bd13994560
+[2025-10-28 20:10:19.307] [Xeno] [debug] Created RBXClient instance @0x25483280
+[2025-10-28 20:10:19.307] [Xeno] [info] Successfully created RBXClient: 18028
+[2025-10-28 20:10:19.307] [RBXClient] [debug] [18028]: Fetching DataModel...
+[2025-10-28 20:10:19.385] [RBXClient] [debug] [18028]: 	String: 0x19f95659f50
+[2025-10-28 20:10:19.385] [RBXClient] [debug] [18028]: 	RenderView: 0x19f8a521000
+[2025-10-28 20:10:19.385] [RBXClient] [debug] [18028]: DataModel (Ugc): 0x19f929c3e38
+[2025-10-28 20:10:19.386] [RBXClient] [debug] [18028]: LocalPlayer: 0x19f94fa6080
+[2025-10-28 20:10:19.386] [RBXClient] [debug] [18028]: LocalPlayer Name: 'Nawdwds'
+[2025-10-28 20:10:19.387] [RBXClient] [trace] [18028]: Attaching in-game using translation module.
+[2025-10-28 20:10:19.389] [RBXClient] [debug] [18028]: EventConnection: 0x19f9516aa00
+[2025-10-28 20:10:19.614] [RBXClient] [trace] [18028]: Intercepted translation module @0x19f9516e200
+[2025-10-28 20:10:23.322] [Execution] [error] [18028]: Could not find a CoreModule; You are not attached properly. Switch to Roblox's window
+[2025-10-28 20:10:23.664] [RBXClient] [warning] [18028]: Attach is taking longer than expected...
+[2025-10-28 20:10:25.972] [RBXClient] [warning] [18028]: Did not receive the success ping from client, trying one last time...
+[2025-10-28 20:10:26.056] [RBXClient] [trace] [18028]: Attach ping received from client, restored bytecode state. This indicates everything was successful.
+[2025-10-28 21:04:25.202] [Xeno] [info] Removed RBXClient: 18028
+[2025-10-28 21:04:32.535] [Xeno] [info] Cleaned up '18028' from InitializedClients

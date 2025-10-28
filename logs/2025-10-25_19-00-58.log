@@ -1,0 +1,20 @@
+[2025-10-25 19:00:58.990] [Xeno] [trace] Xeno is only maintained by Rizve. If you find any bugs, have any question, or just want to chat email me rizve@xeno.onl or DM me on Discord: .rizve
+[2025-10-25 19:00:58.991] [Xeno] [info] Version: Xeno - v1.2.80
+[2025-10-25 19:00:58.991] [Xeno] [info] Log file: C:\Users\гамаз\source\repos\TechnoSploit\TechnoSploit\bin\Debug\logs\2025-10-25_19-00-58.log
+[2025-10-25 19:00:59.006] [Xeno] [debug] Client Checker thread: 0x8ee01fd820
+[2025-10-25 19:00:59.007] [Xeno] [debug] Xeno Caching thread: 0x8ee01fd810
+[2025-10-25 19:00:59.007] [Xeno] [debug] WebSockets Cleaner thread: 0x8ee01fd800
+[2025-10-25 19:00:59.007] [Cache] [info] Caching file: C:\Users\гамаз\AppData\Local\Xeno\XENO_CACHE.bin
+[2025-10-25 19:00:59.007] [Xeno] [debug] Xeno Server thread: 0x8ee01fd7f0
+[2025-10-25 19:00:59.016] [Server] [info] Listening on http://localhost:3110
+[2025-10-25 19:00:59.020] [Xeno] [info] Creating new RBXClient: 4668
+[2025-10-25 19:00:59.021] [RBXClient] [info] [4668]: Initializing...
+[2025-10-25 19:00:59.021] [RBXClient] [info] [4668]: Version: version-4aeb17bd13994560
+[2025-10-25 19:00:59.021] [Xeno] [debug] Created RBXClient instance @0x1bf70b2f4b0
+[2025-10-25 19:00:59.021] [Xeno] [info] Successfully created RBXClient: 4668
+[2025-10-25 19:00:59.022] [RBXClient] [debug] [4668]: Fetching DataModel...
+[2025-10-25 19:00:59.154] [RBXClient] [debug] [4668]: 	String: 0x220a333d650
+[2025-10-25 19:00:59.154] [RBXClient] [debug] [4668]: 	RenderView: 0x220a36c0c00
+[2025-10-25 19:00:59.154] [RBXClient] [debug] [4668]: DataModel (Ugc): 0x220b40f6e38
+[2025-10-25 19:00:59.155] [RBXClient] [info] [4668]: Waiting for LocalPlayer...
+[2025-10-25 19:01:03.062] [Execution] [error] [4668]: Could not find a CoreModule
